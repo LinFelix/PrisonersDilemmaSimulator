@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Felix Völkers
+ * @author Felix Völker
  *
  */
 package core;

@@ -4,7 +4,7 @@
 package core;
 
 /**
- * @author felixmatinf
+ * @author Felix Völker
  *
  */
 public interface Draw {
