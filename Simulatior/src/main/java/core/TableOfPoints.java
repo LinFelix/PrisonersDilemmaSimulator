@@ -7,6 +7,6 @@ package core;
  * @author Felix Völker
  *
  */
-public interface ResultDraw {
+public interface TableOfPoints {
 
 }

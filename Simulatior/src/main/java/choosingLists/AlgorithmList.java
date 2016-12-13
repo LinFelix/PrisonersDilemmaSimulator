@@ -1,7 +1,7 @@
 /**
  * 
  */
-package algorithms;
+package choosingLists;
 
 /**
  * @author Felix Völker
